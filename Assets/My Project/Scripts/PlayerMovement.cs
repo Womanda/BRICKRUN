@@ -5,23 +5,21 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     Rigidbody rb;
+
     [SerializeField] float movementSpeed = 2f;
     [SerializeField] float jumpForce = 5f;
 
-
-    [SerializeField] Transform groundCheck;
     [SerializeField] LayerMask ground;
-
+    [SerializeField] Transform groundCheck;
     [SerializeField] AudioSource jumpSound;
 
     public float rotationSpeed;
-    // Start is called before the first frame update
+
     void Start()
     {
         rb = GetComponent<Rigidbody>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         float horizontalInput = Input.GetAxis("Horizontal");
