@@ -1117,7 +1117,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8489068130547895383, guid: 1e0c1b2a6e4ef584397485d2de90845b, type: 3}
       propertyPath: m_Name
-      value: BRICK_Man 1
+      value: BRICK_Man
       objectReference: {fileID: 0}
     - target: {fileID: 9116669725883356909, guid: 1e0c1b2a6e4ef584397485d2de90845b, type: 3}
       propertyPath: m_RootOrder
@@ -1501,6 +1501,270 @@ PrefabInstance:
     - target: {fileID: 3613115194507627601, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091215287013, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091230425870, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091366578596, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091369933737, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (68)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091378531653, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (66)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091401355997, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091407923086, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091422936838, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091424404210, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091436240801, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (52)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091457354742, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091495549905, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091530942575, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091577052214, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091637499404, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (70)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091829227319, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091835174893, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091845243449, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (67)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091851433323, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091852913696, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091879805737, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091914195399, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091928099238, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903091941863784, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092019194527, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (62)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092037620252, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092040905034, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092062242867, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (64)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092069286959, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092079896833, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092082200463, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092099668561, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092178970554, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092223176580, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092256798651, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092273395375, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092360023541, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (61)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092369461939, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092371333635, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092401418368, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092408338955, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092421384810, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092440113351, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092447357178, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092468206215, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092475410120, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092489547903, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092531259988, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092619640239, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (63)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092684326378, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092740537103, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092903644074, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092956805188, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092969702361, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (69)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092973385054, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903092991600258, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903093000658637, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (71)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903093013569592, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903093060630476, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903093111144155, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903093113582586, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903093135596030, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903093146949897, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903093216218139, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903093282152820, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705903093305292560, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
+      propertyPath: m_Name
+      value: BRICK (24)
       objectReference: {fileID: 0}
     - target: {fileID: 7578195375511565021, guid: be6ef795aa2c20f4d94f0398f0b9f63d, type: 3}
       propertyPath: m_Name
